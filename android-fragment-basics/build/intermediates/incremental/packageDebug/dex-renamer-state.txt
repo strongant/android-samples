@@ -1,7 +1,0 @@
-#Fri Oct 20 11:27:26 CST 2017
-base.0=/Users/bwh/AndroidStudioProjects/android-send-message/fragmentbasics/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_35581d3deb0f2f62e4d6e4c8349cc912018c07f5
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/bwh/AndroidStudioProjects/android-send-message/fragmentbasics/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a732195047538e29b63c0c6dbe92af3746639702/classes.dex
-base.1=/Users/bwh/AndroidStudioProjects/android-send-message/fragmentbasics/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a732195047538e29b63c0c6dbe92af3746639702
-file.0=/Users/bwh/AndroidStudioProjects/android-send-message/fragmentbasics/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_35581d3deb0f2f62e4d6e4c8349cc912018c07f5/classes.dex
